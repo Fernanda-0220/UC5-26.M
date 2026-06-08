@@ -1,4 +1,4 @@
-1- My brother  is  tire.
+1- My brother  is  tired.
 
 2- They  are  at school.
 
@@ -6,13 +6,13 @@
 
 4- My dog  is  sleeping.
 
-5- Me is  ready for the teste.
+5- We is  ready for the teste.
 
 6- You  are  my best friend.
 
 7- The childrem  are  playing outside.
 
-8-  I  from brazil.
+8-  I am  from brazil.
 
 9- She  is  a doctor.
 
@@ -20,7 +20,7 @@
 
 11- My mother  is  in thekitchen.
 
-12- The teachers  is  in the classroom.
+12- The teachers  are  in the classroom.
 
 13- He  is  at home now.
 
