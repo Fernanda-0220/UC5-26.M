@@ -1,20 +1,39 @@
-1- My brother  is  tired - My brother is not tired.
-2- They  are  at school - They are not at school.
-3- I  am  very happy today - I am not very happy today.
-4- My dog  is  sleeping - My dog is not sleeping.
-5- We are  ready for the teste - We are not ready for the teste.
-6- You  are  my best friend.
-7- The childrem  are  playing outside.
-8-  I am from brazil.
-9- She  is  a doctor.
-10- My cat  is  black.
-11- My mother  is  in thekitchen.
-12- The teachers  are  in the classroom.
-13- He  is  at home now.
-14-  I am  a good student.
-15- It  is  a beautiful day.
-16- My friends and I  am  excited.
-17- The book  is  on the table.
-18- I  am  hungry.
-19- You  are  very kind.
-20- My parents  are  at work.
+1- My brother  is  tired - My brother's tired - My brother is not tired - Is my brother tired?
+
+2- They  are  at school - They're at school - They are not at school - Are they at school?
+
+3- I  am  very happy today - I'm very happy today - I am not very happy today - Am i very happy today?
+
+4- My dog  is  sleeping - My dog's sleeping - My dog is not sleeping - Is my dog sleeping?
+
+5- We are  ready for the teste - We're ready for the teste - We are not ready for the teste - Are we ready for the teste?
+
+6- You  are  my best friend - You're my best friend - You are not my best friend - are you my best friend?
+
+7- The children  are  playing outside - They're children playing outside - The children are not playing outside - Are the children playing outside?
+
+8-  I am from Brazil - I'm from Brazil - I am not from Brazil - Am i from Brazil?
+
+9- She  is  a doctor - She's a doctor - She is a not doctor - Is she a doctor?
+
+10- My cat  is  black - My cat's black - My cat is not black - Is my cat black?
+
+11- My mother  is  in thekitchen - My mother's in thekitchen - My mother is not in thekitchen - Is my mother in the kitchen?
+
+12- The teachers  are  in the classroom - The we're in the classroom - The teachers are not in the classroom - Are the teachers in the classroom?
+
+13- He is at home now - He's at home now - He is not home now - Is he at home now?
+
+14-  I am  a good student -  I'm a good student - I am not a good student - Am i a good student?
+
+15- It is a beautiful day - It's a beautiful day - It is not a beautiful day - Is it a beautiful day?
+
+16- My friends and I are excited - We're excited - My friend and I not are excited - Are my friends and I excited?
+
+17- The book is on the table - The book's on the table - The book is not on the table - Is the book on the table?
+
+18- I am  hungry - I'm hungry - I am not hungry - Am i hungry?
+
+19- You  are  very kind - You're very kind - You are not very kind - Are you very kind?
+
+20- My parents  are  at work - Were at work - My parents are not at work - Are my parents at work?
