@@ -1,0 +1,46 @@
+
+FRASE NO PRESENTE:exemplo
+I am a teacher -> Eu sou professor.
+I am a student -> Eu sou estudante.
+I am happy -> Eu estou feliz.
+You are my friend -> Você é meu amigo.
+You are very kind -> você é muito gentil.
+You are smart -> Você é inteligente.
+He is in a happy day -> Ele está em um dia feliz.
+He is a doctor -> Ele é médico.
+He is tall -> Ele é alto.
+She is very cool -> Ela é muito legal.
+She is my friend -> Ela é minha amiga.
+She is beautiful -> Ela é bonita.
+It is a sunny day -> É um dia ensolarado.
+It is very cold -> Está muito frio.
+It is a big dog -> É um cachorro grande.
+We are all friends here -> Nós somos todos amigos aqui.
+We are students -> Nós somos estudantes.
+We are happy -> Nós estamos felizes.
+They are a tall and proud people -> Eles são um povo alto e orgulhoso.
+They are teachers -> Eles são professores.
+THey are tall -> Eles são altos.
+
+FRASE NO PASSADO:exemplo
+I was a teacher -> Eu era/fui um professor.
+I was a student -> Eu era estudante.
+I was happy -> Eu estava feliz.
+You were my friend -> Você era/foi meu amigo.
+You were very kind -> Você era muito gentil.
+You were smart -> Você era inteligente.
+He was in a happy day -> Ele estava em um dia feliz.
+He was a doctor -> Ele era médico.
+He was tall -> Ele era alto.
+She was very cool -> Ela era muito legal.
+She was my friend -> Ela era minha amiga.
+She was beautiful -> Ela era bonita.
+It was a sunny day -> Era/foi um dia ensolarado.
+It was very cold -> Estava muito frio.
+It was a big dog -> Era um cachorro grande.
+We were all friends here -> Nós éramos/fomos todos amigos aqui.
+We were students -> Nós éramos estudantes. 
+We were happy -> Nós éramos felizes.
+They were a tall and proud people -> Eles eram/foram um povo alto e orgulhoso.
+They were teachers -> Eles eram professores.
+They were tall -> Eles eram altos.
